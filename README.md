@@ -1,3 +1,2 @@
 "# integration-java" 
 
-project desc
